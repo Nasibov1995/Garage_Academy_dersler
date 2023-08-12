@@ -1,0 +1,443 @@
+tamamlandi : 1,2,3
+
+--START AY (DERS 1-12)--
+
+Girish
+
+Visual Studio Code ve Python Windowsa qurasdirilmasi
+tanisliq
+Pythonun tarixi
+Dizayn felsefesi
+saheler
+
+
+~~~~~ Ders 1 ~~~~~~
+
+
+
+1. Ilkin anlayislar
+
+-String,str indexleri
+-Variable
+-int()/str()
+-bool
+-condition(if/else/elif)
+
+2.Ilkin Analiz ve Proqram
+
+
+-input
+-inputlar uzerinde muxtelif emeliyyatlar(inputlarda daxil edilmis melumatlarin if/else ile muxtelif sertlerde analizi)
+-praktiki ders ve ev taprsiriqlari
+
+
+~~~~~  Ders 2 ~~~~~~
+
+
+
+
+3.Dovr Anlayisi
+
+
+-while
+-for
+-range
+-pass,continue,break
+-dovrler uzer praktiki ev tapsiriqlari
+
+
+~~~~~ Ders 3 ~~~~~~
+
+4. Massivler
+
+-list massivleri
+-element
+-index
+-deyer
+-list massivlerine aid praktiki ders ve ev tapsiriqlari
+
+
+
+~~~~~ Ders 4 ~~~~~~
+
+
+5.Dict,set,tuple
+
+
+-key anlayisi
+-list ve dictlerin birlikde istifadesi
+-praktiki ders ve ev tapsiriqlari
+
+
+
+
+~~~~~ Ders 5 ~~~~~~
+
+
+6.Sehvlerin analizi ve teleblerin qoyulmasi
+
+-try/except/else/finally
+-evvel edilmis butun tapsiriqlarin try/excepte tetbiq edilmesi
+
+
+7.Funksiya anlayisi
+
+-def
+-lambda
+-argumentler
+
+-evvel edilmis tapsiriqlarin funksiyaya inteqrisayiasi
+
+
+~~~~~ Ders 6 ~~~~~~
+
+
+8.Modullar
+
+-modul anlayisi
+-daxili modullar
+-xarici modullar
+-musteqil sekilde modul yaratmaq
+-modullar uzerinde praktiki ev ve ders tapsiriqlari
+
+
+~~~~~ Ders 7 ~~~~~~
+
+9.Fayllar uzerinde islemek
+
+-open/read/write/add
+-split()
+-fayldaki data ve massivleri qarsiliqli sekilde isletmek
+-praktiki ders ve ev tapsiriqlari(hem massivleri hem de fayllari ehate eden praktiki tapsiriq)
+
+
+
+
+~~~~~ Ders 8 ~~~~~~  
+
+
+10.class ve obyekt
+
+-class yaratmaq
+-classin metodlarini yaratmaq
+-bir classin esasinda diger classi yaratmaq
+- __init__() anlayisinin izah edilmesi
+-praktiki ders ve ev tapsiriqlari
+
+
+
+~~~~~ Ders 9 ~~~~~~  
+
+
+
+11.SQLite 3
+
+
+-sqlite modulunun qurasdirilmasi
+- yeni baza ve cedvelin yaradilmasi
+-melumatlarin bazaya elave edilmesi
+
+
+
+
+
+12.SQLite 3(select)
+
+-bazadaki melumatlarin ekrana cixardilmasi
+-melumat elave ederken unikalligin qorunmasi
+-ekrana cxarilmis melumatlar uzre muxtelif emeliyyatlar
+-praktiki ders ve ev tapsiriqlari
+
+
+~~~~~ Ders 10 ~~~~~~
+
+
+13.SQLite3 (delete , update)
+
+-id anlayisinin izahi
+-melumatlarin silinmesi
+-melumatlarin redaktesi ve yenilenmesi
+-praktiki ders ve ev tapsiriqlari
+
+
+~~~~~ Ders 11 ~~~~~~
+
+
+14.
+-qrcode
+-pywhatkit
+
+- Butun kecilmis movzulari ehate edecek tapsirigin verilmesi
+
+--END Python --
+
+
+
+~~~~~ Ders 12 ~~~~~~    
+
+
+
+--- End AY 1 ---
+
+
+
+--- Start AY 2 (DERS 12-24)---
+
+
+
+
+1.Django ilkin anlayislar
+
+-MVT proqlamlasdirmanin izahi
+-Ilkin layihe yaratmaq ve ise salmaq
+-app yaratmaq ve app anlayisini izah etmek(urls.py/views.py/templates)
+
+
+
+~~~~~ Ders 13,14 ~~~~~~
+
+
+2.Django layout
+
+-layout anlayisi
+-html maket
+-extends/block
+-praktiki ders ve ev tapsiriqlari
+
+3.Django formalarla islemek
+
+-form anlayisi
+-input/button
+-duymelerin basilmasi ve inputdaki neticenin ekrana verilmesi
+
+
+~~~~~ Ders 15 ~~~~~~
+
+
+4.Django formlar uzre tasklar
+
+-kimdir?
+-login ve parol
+
+5.Djangoda formlar uzre tasklar
+
+-calculator
+-exchange
+
+
+~~~~~ Ders 15 ~~~~~~
+
+
+6. Step anlayisi
+
+-muxtelif addimlarin bir fayl daxilinde manipulyasiyasi
+-praktiki ders ve ev tapsiriqlari
+
+7.Django formlar select/option/optgroup
+
+-selectle exchange proqrami
+-selectle calculator proqrami
+
+
+~~~~~ Ders 16 ~~~~~~
+
+
+
+8. Django formlar radio/checkbox
+
+-radio ile exam
+-radio ile calculator
+
+
+~~~~~ Ders 17 ~~~~~~
+
+
+
+9.Formlari mohkemlendirmek ucun tapsiriqlar
+
+- vurma cedveli
+-ne qeder heyatda movcudam
+
+
+~~~~~ Ders 18 ~~~~~~
+
+
+10.Django uzerinden sql emeliyyatlari
+
+11.Select
+
+12.Delete
+
+~~~~~ Ders 19 ~~~~~~
+
+
+13.Update
+
+14.Django uzerinden crud uzre tapsiriqlar
+
+
+
+~~~~~ Ders 20 ~~~~~~
+
+
+
+15.Django frond end
+
+-Bootstrap ilkin anlayislar
+-Static
+
+16.Django Frond End
+
+-Bootstrap Navbar
+-sql search(Q modulu)
+
+
+~~~~~ Ders 21 ~~~~~~
+
+
+17.Django fayllar uzerinde is
+
+-fayllarin uploadi
+-fayllarin silinmesi
+-fayllarin redaktesi
+
+
+~~~~~ Ders 22 ~~~~~~
+
+
+
+18.Django elaqeli cedveller
+
+-elaqeli cedvel anlayisi
+-foreignkey anlayisi
+-elaqeli cedvellerle melumatlarin daxil edilmesi ve ekrana verilmesi
+
+
+~~~~~ Ders 23 ~~~~~~
+
+
+19.Django toplu sekilde silme
+
+
+-cedvellerdeki butun melumatlarin silinmesi
+-cedvellerdeki yalniz secilmis melumatlarin silinmesi
+
+
+~~~~~ Ders 24 (12 ders)~~~~~~  
+
+
+
+
+20.Djangoda portfolio layihesi
+
+- Qr code Generator app
+- static 
+- layihe uzre road mapin hazirlanmasi 
+- login sistemi 
+- login_required decorator 
+- django axes
+- ilkin tapsiriqlarin verilmesi
+
+
+--- END AY 2 ---
+
+
+
+--- Start AY 3 (DERS 224-36)---
+
+
+
+~~~~~ Ders 36,37,38 ~~~~~~   
+
+
+29.Real Server
+
+-hosting/domain anlayislari
+-djangonun real servere deploy edilmesi
+
+
+--- END AY 3 ---
+
+
+
+--- Start AY 4 (DERS 36-48)---
+
+
+~~~~~ Ders 39,40 ~~~~~~
+
+
+30.Data Mining
+
+-umumi anlayis
+-Beautiful Soup  - metbuati eleme
+-praktiki ders ve ev tapsiriqlari
+
+
+
+~~~~~ Ders 41 (17 ders) ~~~~~~
+
+
+31.Django Portfolio 2
+
+- Xeber Sayti - Django & Data Mining
+
+- scraping
+- cron jobs bot
+- filter
+- raw sql
+- send mail
+- recaptcha
+- weather api
+- static
+
+--- END AY 4 ---
+
+
+--- Start AY 5 (DERS 48-60) ---
+
+
+
+~~~~~ Ders 59,60 ~~~~~~
+
+
+
+
+32.Portfoliolar uzerinde is , debugging , kecilmislerin tekrari
+
+
+32. Yekun 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

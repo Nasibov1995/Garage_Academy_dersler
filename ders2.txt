@@ -1,0 +1,8 @@
+a%b
+for
+while
+range
+continue break pass
+string uzerinde for
+reqem uzerinde for
+while vurma cedveli

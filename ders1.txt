@@ -1,0 +1,29 @@
+"Salam{}".format('Nasib')
+deyisen  - reqem ile baslaya bilmez
+
+str indexleri
+
+max() , min()
+
+upper
+lower
+replace
+strip()
+capitalize()
+count count('a',2) indexden sonra sayim
+find
+if/elif/else
+input()
+
+not: yuxari ve asagi yuvarlaqlasdirma  ceil() floor() round() misal cek
+
+run buttonu
+
+ctrl + z , ctrl + y
+
+or and
+
+< >
+
+
+
